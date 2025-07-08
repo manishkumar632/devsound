@@ -2,7 +2,7 @@
 
 DevSound is a simple and modern local music player app for Android, built with Java in Android Studio. It lets you browse, play, and manage music files stored on your device with an intuitive and clean interface.
 
-![DevSound Banner](https://github.com/manishkumar632/devsound/blob/8ed433d16a09e7ac22362c9db65d5df6e983b664/images/image.png)
+![DevSound Banner](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image%20copy%202.png)
 
 ---
 
@@ -22,7 +22,7 @@ DevSound is a simple and modern local music player app for Android, built with J
 
 | Home Screen | Playback | Playlist | Notification | Theme |
 |-------------|----------|----------|--------------|-------|
-| ![](https://github.com/manishkumar632/devsound/blob/8ed433d16a09e7ac22362c9db65d5df6e983b664/images/image.png) | ![](https://github.com/manishkumar632/devsound/blob/8ed433d16a09e7ac22362c9db65d5df6e983b664/images/image copy.png) | ![](https://github.com/manishkumar632/devsound/blob/8ed433d16a09e7ac22362c9db65d5df6e983b664/images/image copy 2.png) | ![](https://github.com/manishkumar632/devsound/blob/8ed433d16a09e7ac22362c9db65d5df6e983b664/images/image copy 3.png) | ![](https://github.com/manishkumar632/devsound/blob/8ed433d16a09e7ac22362c9db65d5df6e983b664/images/image copy 4.png) |
+| ![](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image.png) | ![](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image%20copy%202.png) | ![](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image%20copy.png) | ![](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image%20copy%203.png) | ![](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image%20copy%204.png) |
 
 > 🔧 *Replace the above image URLs with actual unique screenshot links if you upload more images.*
 
