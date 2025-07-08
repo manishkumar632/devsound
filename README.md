@@ -24,8 +24,7 @@ DevSound is a simple and modern local music player app for Android, built with J
 |-------------|----------|----------|--------------|-------|
 | ![](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image.png) | ![](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image%20copy%202.png) | ![](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image%20copy.png) | ![](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image%20copy%203.png) | ![](https://github.com/manishkumar632/devsound/blob/c471cbf48fa9283a5d22833931a059c730cf715c/images/image%20copy%204.png) |
 
-> 🔧 *Replace the above image URLs with actual unique screenshot links if you upload more images.*
-
+> 
 ---
 
 ## 🛠 Requirements
