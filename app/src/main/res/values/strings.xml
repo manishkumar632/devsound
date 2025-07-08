@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevSound</string>
+    <string name="welcome_text">Welcome to My Sound World</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="album_art">Album Art</string>
+    <string name="no_songs_found">No songs found</string>
+    <string name="playlist">Playlist</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="unknown_song">Unknown Song</string>
+    <string name="play_pause">Play or Pause</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Missing strings from activity_main.xml -->
+    <string name="song_title">Song Title</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="time_zero">0:00</string>
+    <string name="view_playlist">VIEW PLAYLIST</string>
+    <string name="skip_next">Next Track</string>
+    <string name="skip_previous">Previous Track</string>
+    
+    <!-- Missing strings from activity_splash.xml -->
+    <string name="skip">Skip</string>
+    <string name="headphones">Headphones</string>
+    <string name="splash_description">Playio supports artists with tools to create, release, and measure music across a global stage.</string>
+    
+    <!-- Other strings that might be needed -->
+    <string name="search_music">Search music</string>
+    <string name="permissions_required">Storage permissions required to access music files</string>
+    <string name="grant_permissions">Grant Permissions</string>
+</resources>

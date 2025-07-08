@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- App theme colors -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    
+    <!-- Dark theme colors -->
+    <color name="colorBackgroundDark">#121212</color>
+    <color name="colorTextPrimaryDark">#FFFFFF</color>
+    <color name="colorTextSecondaryDark">#B3FFFFFF</color>
+    
+    <!-- UI components -->
+    <color name="colorSelectedItem">#10FF4081</color> <!-- Transparent version of accent color -->
+    
+    <!-- Now Playing Screen -->
+    <color name="colorNowPlayingBackground">#F5F1FF</color>
+    <color name="colorWaveformActive">#673AB7</color>
+    <color name="colorWaveformInactive">#DDDDDD</color>
+</resources>
